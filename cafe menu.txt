@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HOT SPOT - Food Delivery</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; background-color: #fff8f0; color: #333;">
+
+    <header style="background-color: #ff5722; padding: 30px 0; text-align: center; color: white;">
+        <h1 style="font-size: 48px; margin: 0;">🍕 HOT SPOT</h1>
+        <p style="font-size: 20px; margin-top: 10px;">Your Favorite Food, Delivered Fast!</p>
+    </header>
+
+    <nav style="background-color: #ffe0b2; padding: 10px 0; text-align: center;">
+        <a href="#home" style="margin: 0 15px; font-size: 18px; text-decoration: none; color: #ff5722;">Home</a>
+        <a href="#menu" style="margin: 0 15px; font-size: 18px; text-decoration: none; color: #ff5722;">Menu</a>
+        <a href="#about" style="margin: 0 15px; font-size: 18px; text-decoration: none; color: #ff5722;">About Us</a>
+        <a href="#contact" style="margin: 0 15px; font-size: 18px; text-decoration: none; color: #ff5722;">Contact</a>
+    </nav>
+
+    <section id="home" style="padding: 40px; text-align: center;">
+        <h2>Welcome to HOT SPOT</h2>
+        <p>We deliver delicious food from your favorite restaurants—hot, fast, and fresh!</p>
+        <img src="https://cdn.pixabay.com/photo/2022/08/02/07/30/pizza-7359755_1280.jpg" alt="Pizza" style="width: 60%; border-radius: 10px; margin-top: 20px;">
+    </section>
+
+    <section id="menu" style="padding: 40px; background-color: #fff3e0;">
+        <h2 style="text-align: center;">🍽 Our Popular Items</h2>
+        <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 30px;">
+            <div style="width: 200px; text-align: center; margin-bottom: 20px;">
+                <img src="https://cdn.pixabay.com/photo/2022/07/15/18/12/cheese-burger-7323672_1280.jpg" style="width: 100%; border-radius: 10px;">
+                <p>🍔 Cheeseburger - ₹120</p>
+            </div>
+            <div style="width: 200px; text-align: center; margin-bottom: 20px;">
+                <img src="https://media.istockphoto.com/id/1269122740/photo/pizza-with-very-much-cheese-melting.jpg?s=1024x1024&w=is&k=20&c=MapweWr7IkaEJCQVHMYVtDj5WB9e30wY6PELVEgYR4Q=" style="width: 100%; border-radius: 10px;">
+                <p>🍕 Margherita Pizza - ₹250</p>
+            </div>
+            <div style="width: 200px; text-align: center; margin-bottom: 20px;">
+                <img src="https://cdn.pixabay.com/photo/2016/11/29/04/00/bread-1867208_640.jpg" style="width: 100%; border-radius: 10px;">
+                <p>🥪 Grilled Sandwich - ₹100</p>
+            </div>
+            <div style="width: 200px; text-align: center; margin-bottom: 20px;">
+                <img src="https://cdn.pixabay.com/photo/2021/12/17/09/13/iced-coffee-6876063_1280.jpg" style="width: 100%; border-radius: 10px;">
+                <p>🥤 Cold Coffee - ₹80</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" style="padding: 40px; text-align: center;">
+        <h2>About Us</h2>
+        <p style="max-width: 600px; margin: auto;">HOT SPOT is a food delivery service that brings your cravings to your doorstep. We partner with top restaurants and ensure quick, safe, and hygienic delivery to keep you smiling after every meal!</p>
+    </section>
+
+    <section id="contact" style="padding: 40px; background-color: #fff3e0;">
+        <h2 style="text-align: center;">📞 Contact Us</h2>
+        <p style="text-align: center;">Email: support@HOT SPOT.com</p>
+        <p style="text-align: center;">Phone: +91-9876543210</p>
+        <p style="text-align: center;">Instagram: @HOT SPOT_india</p>
+    </section>
+
+    <footer style="background-color: #ff5722; text-align: center; padding: 20px; color: white;">
+        <p>&copy; 2025 HOT SPOT. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
